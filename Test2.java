@@ -1,1 +1,2 @@
 Line from user2
+another line from user2
