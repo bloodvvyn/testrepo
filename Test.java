@@ -1,4 +1,4 @@
 /*
 * good evening! (from branch master)
-line from user1
+line from user2
 * */
